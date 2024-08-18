@@ -1,5 +1,6 @@
 # Netscape HTTP Cookie File
 # This is a generated file! Do not edit.
+# Sanatani music bot 
 
 # domain  include_subdomains  path  secure  expiration_date  name  value
 .youtube.com  TRUE  /  TRUE  1755172692  __Secure-1PSIDCC  AKEyXzULM_q7Yb6qAY3yNbkjLQdFGBD488su966UQaLcPP0PhNIuU8NFAfRNPLnVrPR3a875HA
