@@ -1,7 +1,7 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 ridi Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="https://telegra.ph/file/372962a4dbff8bb4e332c.jpg" alt="ridi Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
